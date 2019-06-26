@@ -24,7 +24,10 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/assets/css/landing-page.css",
+              "src/assets/css/fontawesome-free/css/all.min.css",
+              "src/assets/css/simple-line-icons/css/simple-line-icons.css"
             ],
             "scripts": []
           },
